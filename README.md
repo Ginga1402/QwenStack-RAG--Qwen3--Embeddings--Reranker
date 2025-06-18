@@ -16,6 +16,11 @@ all orchestrated with LangChain, ChromaDB, Ollama and Gradio for seamless QA exp
 
 Whether you're building an enterprise search engine or an intelligent assistant, QwenStack-RAG shows how to turn documents into conversational knowledge.
 
+
+![Image](https://github.com/user-attachments/assets/fd58c829-11ef-4d39-9bf5-f4b15e04e18a)
+
+
+
 ## **Project Structure**
 
 ```
